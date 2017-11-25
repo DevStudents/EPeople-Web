@@ -3,7 +3,7 @@
 
 # EPeople (Web version)
 
-Its a social network where everyone can meet new people and chat with each other.
+It's a social network where everyone can meet new people and chat with each other.
 
 ### Todo list:
 - [ ] Front page design (HTML/CSS/JS)
