@@ -23,3 +23,7 @@ It's a social network where everyone can meet new people and chat with each othe
 - [ ] User's profile page functionality (PHP)
 - [ ] Search feature
 - [ ] (MySQL) Database
+- [ ] Dynamicznie zmieniana title(PHP)
+- [ ] Dynamiczna zmiana nagłówka strony(PHP)
+
+
