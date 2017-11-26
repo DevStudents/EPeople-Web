@@ -11,6 +11,10 @@ It's a social network where everyone can meet new people and chat with each othe
 * The best implementation of some feature is choosen by everyone through voting on comment under commit.
 * [Contribution tips](https://github.com/MarcDiethelm/contributing)
 
+## Roles in repo:
+* Front-end team is responsible for design/ layout of website.
+* Back-end team is responsible for implementing new features eg. register system, search engine etc.
+
 ### Todo list:
 - [ ] Front page design (HTML/CSS/JS)
 - [ ] Register option (PHP)
