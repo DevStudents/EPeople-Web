@@ -8,7 +8,7 @@ It's a social network where everyone can meet new people and chat with each othe
 ## How to contribute?
 * If some feature doesn't exist you can implement it.
 * If you see that something isn't good enough for you, repair it.
-* The best implementation of some feature is choosen by everyone through voting on comment under commit.
+* The best implementation of some feature is choosen by everyone through voting on comment under pull request.
 * [Contribution tips](https://github.com/MarcDiethelm/contributing)
 
 ## Roles in repo:
