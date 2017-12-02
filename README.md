@@ -16,7 +16,7 @@ It's a social network where everyone can meet new people and chat with each othe
 * Back-end team is responsible for implementing new features eg. register system, search engine etc.
 
 ### Todo list:
-- [X] Front page design before logged in (HTML/CSS/JS) > (**design/welcome.html**)
+- [X] Front page design before logged in (HTML/CSS/JS)<br>> design/welcome.html
 - [ ] Front page design after logged in (timeline with posts of friends)
 - [ ] Register option (PHP)
 - [ ] Login option (PHP)
