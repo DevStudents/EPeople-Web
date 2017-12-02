@@ -1,3 +1,3 @@
 # DESIGN
 
-### [Click here to VIEW templates](http://htmlpreview.github.io/?https://github.com/DevStudents/EPeople-Web/tree/master/design/index.html)
+### [Click here to VIEW templates](https://htmlpreview.github.io/?https://github.com/DevStudents/EPeople-Web/blob/master/design/index.html)
